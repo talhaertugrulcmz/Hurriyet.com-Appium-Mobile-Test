@@ -4,8 +4,7 @@ This is a template to get started with a Gauge project that uses Selenium as the
 
 ## Installing this template
 
-    gauge --install java_maven_selenium
-
+    
 ## Building on top of this template
 
 ### Defining Specifications
