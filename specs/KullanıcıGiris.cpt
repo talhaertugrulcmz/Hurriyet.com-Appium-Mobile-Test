@@ -1,0 +1,31 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+
+# Kullanıcı Giriş sayfasının açıldığı doğrulanır
+*"hurriyet.mobil.android:id/loginTextBtn" Kullanici giriş sayfasının açılması kontrol edilmektedir
+*"1" saniye kadar bekle
+
+# Kullanici Giris Butonuna Tıklanır
+*"hurriyet.mobil.android:id/loginTextBtn" elementi bul ve ardindan tikla
+*"1" saniye kadar bekle
+
+# Kullanıcı mail ve sifre giris
+* "hurriyet.mobil.android:id/login_editText_email" elementi bul ve "raker79113@crodity.com" mail girisi yap,"hurriyet.mobil.android:id/login_editText_password" elementi bul ve "Testcase123!" sifre girisi yap
+*"2" saniye kadar bekle
+
+# Devam Et Butonuna tıklanır
+*"hurriyet.mobil.android:id/login_textView_continue" elementi bul ve ardindan tikla
+* "5" saniye kadar bekle
+*Telefon Tuşu ile Uygulamada Geri Gelme
+
+
+# Ayarlar Butonuna Tıklanır
+*"hurriyet.mobil.android:id/settingsCardBtn" elementi bul ve ardindan tikla
+* "2" saniye kadar bekle
+
+#Kullancı Bilgileri Kontrol Edilir
+*"hurriyet.mobil.android:id/userFullNameTextView" Kullanici Adi Bilgisi ve "hurriyet.mobil.android:id/userEmailTextView" Mail Bilgilerinin Dogru Oldugu Kontrol Edilir
+*"2" saniye kadar bekle
+
+

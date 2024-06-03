@@ -1,0 +1,17 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+
+# Hurriyet Uygulamasının açıldığı kontrol edilir
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout" uygulamanın açılması kontrol edilmektedir
+*"5" saniye kadar bekle
+
+# Ayarlar Ekranı Geri Tuşuna Basılır
+*"android.widget.ImageButton" li elemente tıkla
+*"1" saniye kadar bekle
+
+
+# Giriş yap  butonuna basılır
+*"hurriyet.mobil.android:id/actionbar_home_profile" elementi bul ve ardindan tikla
+*"2" saniye kadar bekle
+
